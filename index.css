@@ -1,0 +1,17 @@
+body{
+    background: url(img.jpg);
+    object-fit: fill;
+}
+tr{
+    background-color: rgb(167, 123, 97);
+    opacity: 0.8;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 750px;
+    overflow: auto;
+    }
+.table-wrapper-scroll-y {
+    display: block;
+    }
